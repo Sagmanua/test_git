@@ -3,7 +3,7 @@ package com.example.introduce
 fun main() {
 
     // val: su valor no puede cambiar
-    val nombre = "Laufsgdsfgra"
+    val nombre = "Laufsgdsfgsdfasdfra"
 
     // var: su valor puede cambiar
     var edad = 20
